@@ -1,0 +1,10 @@
+E:\C# Tutorials and Projects\Read GUI Calculator\bin\Debug\Read GUI Calculator.exe.config
+E:\C# Tutorials and Projects\Read GUI Calculator\bin\Debug\Read GUI Calculator.exe
+E:\C# Tutorials and Projects\Read GUI Calculator\bin\Debug\Read GUI Calculator.pdb
+E:\C# Tutorials and Projects\Read GUI Calculator\obj\Debug\Read GUI Calculator.csprojAssemblyReference.cache
+E:\C# Tutorials and Projects\Read GUI Calculator\obj\Debug\Read_GUI_Calculator.Form1.resources
+E:\C# Tutorials and Projects\Read GUI Calculator\obj\Debug\Read_GUI_Calculator.Properties.Resources.resources
+E:\C# Tutorials and Projects\Read GUI Calculator\obj\Debug\Read GUI Calculator.csproj.GenerateResource.cache
+E:\C# Tutorials and Projects\Read GUI Calculator\obj\Debug\Read GUI Calculator.csproj.CoreCompileInputs.cache
+E:\C# Tutorials and Projects\Read GUI Calculator\obj\Debug\Read GUI Calculator.exe
+E:\C# Tutorials and Projects\Read GUI Calculator\obj\Debug\Read GUI Calculator.pdb
